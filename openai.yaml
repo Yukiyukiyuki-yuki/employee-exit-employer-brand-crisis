@@ -1,0 +1,4 @@
+interface:
+  display_name: "员工离职舆情处理"
+  short_description: "处理离职员工发声、雇主品牌和职场负面舆情的公关判断与SOP。"
+  default_prompt: "请使用这个 skill 帮我判断并处理一起离职员工发声引发的雇主品牌舆情。"
